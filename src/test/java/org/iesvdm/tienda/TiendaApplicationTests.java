@@ -656,6 +656,7 @@ Hewlett-Packard              2
 	void test43() {
 		var listFabs = fabRepo.findAll();
 		//TODO
+        System.out.println();
 	}
 	
 	/**
